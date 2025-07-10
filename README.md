@@ -1,1 +1,1 @@
-# ExcelProject
+# GENAI PROJECT
